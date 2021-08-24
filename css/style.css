@@ -4,8 +4,8 @@ body{
   height: 100%;
 }
 p{
-	font-family: 'fonts/Mont-ExtraLightDEMO.otf', sans-serif, Arial;
+	font-family: 'fonts/Mont-ExtraLightDEMO.otf', 'sans-serif', 'Arial';
 }
 h2{
-	font-family: 'fonts/Mont-HeavyDEMO.otf', sans-serif, Arial;
+	font-family: 'fonts/Mont-HeavyDEMO.otf', 'sans-serif', 'Arial';
 }
