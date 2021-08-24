@@ -3,9 +3,7 @@ body{
   width: 100%;
   height: 100%;
 }
-p{
-	font-family: fonts/Mont-ExtraLightDEMO, sans-serif, Arial;
-}
-h2{
-	font-family: fonts/Mont-HeavyDEMO, sans-serif, Arial;
+@font-face {
+  font-family: 'Mont';
+  src: url('fonts/Mont-HeavyDEMO.otf') format('truetype');
 }
